@@ -1,0 +1,52 @@
+.rectangle {
+  height: 79.8px;
+  width: 571px;
+  position: relative;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--colors-neutral-white);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.userIcon,
+.username1 {
+  height: 35.5px;
+  position: relative;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.userIcon {
+  width: 38.1px;
+  overflow: hidden;
+  min-height: 36px;
+}
+.username1 {
+  width: 159.9px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 300;
+  display: inline-block;
+}
+.username {
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--colors-neutral-white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) var(--padding-3xl) var(--padding-xl);
+  gap: var(--gap-17xl-2);
+  max-width: 100%;
+  z-index: 9;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--colors-neutral-white);
+  font-family: var(--font-montserrat);
+}
+@media screen and (max-width: 450px) {
+  .username {
+    flex-wrap: wrap;
+  }
+}

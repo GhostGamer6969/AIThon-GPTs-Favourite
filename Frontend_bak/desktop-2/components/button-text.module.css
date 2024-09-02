@@ -1,0 +1,19 @@
+.button {
+  text-decoration: none;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 35px;
+}
+.buttonText {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--colors-neutral-white);
+  font-family: var(--font-inter);
+}

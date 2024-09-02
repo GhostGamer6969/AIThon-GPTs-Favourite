@@ -1,0 +1,1070 @@
+.gradient1Icon {
+  width: 908px;
+  height: 1034.9px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -486.9px;
+  left: -484px;
+  z-index: 1;
+}
+.designWizardBadges {
+  width: 100%;
+  height: 100%;
+  z-index: 6;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.562);
+}
+.wrapperDesignWizardBadges {
+  width: 220px;
+  height: 220px;
+  position: relative;
+  z-index: 6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div {
+  width: 213px;
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  z-index: 2;
+}
+.frameWrapper,
+.wrapperDesignWizardBadgesParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.wrapperDesignWizardBadgesParent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 7px;
+}
+.frameWrapper {
+  height: 283px;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.vision {
+  margin: 0;
+  width: 226px;
+  position: relative;
+  font-size: var(--font-size-61xl);
+  letter-spacing: -0.08em;
+  line-height: 80px;
+  font-weight: 400;
+  font-family: var(--font-abeezee);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.gradient1Parent {
+  align-self: stretch;
+  height: 548px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 233px var(--padding-xl) 32px 54px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 316px;
+}
+.overview {
+  margin: 0;
+  height: 80px;
+  width: 350px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.08em;
+  line-height: 80px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.frameGroup,
+.overviewWrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.overviewWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-61xl);
+  font-family: var(--font-abeezee);
+}
+.frameGroup {
+  width: 505px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 4px;
+  max-width: calc(100% - 934px);
+  flex-shrink: 0;
+}
+.wrapperGroup3Child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 72px;
+  transform: scale(1.098);
+}
+.wrapperGroup3 {
+  position: absolute;
+  top: -716.5px;
+  left: 0;
+  width: 1622.5px;
+  height: 1477.4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.etherium2Copy1,
+.monero2Copy2 {
+  position: absolute;
+  top: 566.7px;
+  left: 983.4px;
+  width: 174.4px;
+  height: 174.4px;
+  object-fit: contain;
+  z-index: 1;
+}
+.monero2Copy2 {
+  top: 223px;
+  left: 1119.5px;
+  width: 159px;
+  height: 158px;
+  object-fit: cover;
+}
+.starImgIcon {
+  position: absolute;
+  top: 174px;
+  left: 1216.5px;
+  width: 54px;
+  height: 46px;
+  z-index: 6;
+}
+.starImgIcon1,
+.wrapperGroup3Parent {
+  position: absolute;
+  top: 2px;
+  left: -849.5px;
+  width: 1389.5px;
+  height: 760.9px;
+}
+.starImgIcon1 {
+  top: 50px;
+  left: 146px;
+  width: 61px;
+  height: 60px;
+  z-index: 6;
+}
+.designWizardBadges1,
+.wrapperDesignWizardBadges1 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 7;
+}
+.designWizardBadges1 {
+  object-fit: contain;
+  top: 2px;
+  transform: scale(1.562);
+}
+.wrapperDesignWizardBadges1 {
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bgGradientImg,
+.starImgParent {
+  position: absolute;
+  top: 671px;
+  left: 208px;
+  width: 220px;
+  height: 220px;
+}
+.bgGradientImg {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 252px;
+  width: 539px;
+  overflow: hidden;
+  z-index: 5;
+}
+.login,
+.signUp {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.signUp {
+  left: 84px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+.login {
+  left: 0;
+  min-width: 39px;
+  cursor: pointer;
+}
+.signUpParent {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+}
+.featuresParent,
+.frameDiv {
+  display: flex;
+  align-items: flex-start;
+}
+.frameDiv {
+  width: 142px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.featuresParent {
+  margin: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 52px;
+}
+.frameHeader,
+.groupDiv {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.groupDiv {
+  flex: 1;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  cursor: pointer;
+  z-index: 1;
+}
+.frameHeader {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  width: 729px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 110px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--colors-neutral-white);
+  font-family: var(--font-inter);
+}
+.bgGradientImgParent {
+  align-self: stretch;
+  height: 907px;
+  position: relative;
+  max-width: 100%;
+}
+.aMultiplayerGameArcade,
+.onTheBlockchain {
+  margin: 0;
+}
+.aMultiplayerGameArcadeContainer {
+  margin: 0;
+  height: 140px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.aMultiplayerGameArcadeMetWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-60xl) 0 72px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frameContainer,
+.frameParent {
+  flex-shrink: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameContainer {
+  margin-top: -438px;
+  flex: 1;
+  flex-direction: column;
+  gap: 88px;
+  max-width: calc(100% - 648px);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.frameParent {
+  align-self: stretch;
+  height: 984px;
+  flex-direction: row;
+  padding: 436px 0 0;
+  box-sizing: border-box;
+  gap: 143px;
+  max-width: 100%;
+}
+.circlesIcon {
+  position: absolute;
+  top: -369px;
+  left: -661px;
+  width: 2559.5px;
+  height: 1584.5px;
+}
+.bgGradientImgIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.bitcoin1Icon,
+.glassIcon,
+.sphereIcon {
+  position: absolute;
+  top: 385px;
+  left: 63px;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  z-index: 6;
+}
+.bitcoin1Icon,
+.glassIcon {
+  top: 325px;
+  left: 385px;
+  width: 156px;
+  height: 156.4px;
+  object-fit: contain;
+}
+.bitcoin1Icon {
+  top: 124px;
+  left: 62px;
+  width: 138.1px;
+  height: 141.8px;
+}
+.starImgIcon2 {
+  position: absolute;
+  top: 241px;
+  left: 190px;
+  width: 61px;
+  height: 60px;
+  z-index: 7;
+}
+.bgGradientImgGroup,
+.circlesParent {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  width: 617px;
+  height: 520px;
+}
+.circlesParent {
+  top: 2px;
+  left: 1px;
+  width: 1440px;
+  height: 984px;
+}
+.cryptoPay {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.08em;
+  line-height: 120px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 3;
+}
+.cryptoPayWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 9.7px;
+}
+.isGamifiedCrypto {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.frameChild {
+  height: 53.7px;
+  width: 142px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-orange);
+  display: none;
+}
+.wallet {
+  margin: 0;
+  width: 105px;
+  position: relative;
+  font-size: inherit;
+  line-height: 15.56px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.rectangleParent {
+  flex: 1;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-orange);
+  justify-content: flex-start;
+  padding: 19px var(--padding-11xs) 19.6px;
+  white-space: nowrap;
+}
+.frameWrapper2,
+.frameWrapper3,
+.rectangleParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frameWrapper3 {
+  width: 142px;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.frameWrapper2 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: right;
+  font-size: var(--font-size-5xl);
+  color: #010000;
+  font-family: var(--font-inter);
+}
+.frameWrapper1,
+.isGamifiedCryptoWalletWherParent {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.isGamifiedCryptoWalletWherParent {
+  width: 640px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 89.7px;
+  gap: var(--gap-17xl);
+}
+.frameWrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 22px;
+  text-align: center;
+  font-size: 32px;
+  font-family: var(--font-raleway);
+}
+.badges {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.08em;
+  line-height: 120px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 3;
+}
+.badgesWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 27px;
+}
+.winBadgesOn {
+  align-self: stretch;
+  position: relative;
+  font-size: 20px;
+  font-family: var(--font-raleway);
+  text-align: center;
+  margin-top: -21px;
+}
+.frameParent2 {
+  flex: 1;
+  flex-direction: column;
+}
+.block1Inner,
+.frameParent1,
+.frameParent2,
+.frameWrapper4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameWrapper4 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 28px;
+  box-sizing: border-box;
+  font-size: var(--font-size-29xl);
+}
+.block1Inner,
+.frameParent1 {
+  flex-direction: column;
+}
+.frameParent1 {
+  align-self: stretch;
+  gap: 14.3px;
+}
+.block1Inner {
+  flex: 1;
+  padding: 32.9px 0 0;
+  box-sizing: border-box;
+}
+.starImgIcon3 {
+  height: 69.7px;
+  width: 74px;
+  position: relative;
+}
+.litecoin1Icon {
+  height: 147.3px;
+  width: 147.3px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 65.7px;
+  left: 154px;
+  object-fit: contain;
+  z-index: 5;
+}
+.block1,
+.block1Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.block1 {
+  flex: 1;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding: 46.2px 231px 145px 368px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 57px;
+}
+.block1Wrapper {
+  position: absolute;
+  top: 149.9px;
+  left: -1px;
+  width: 100%;
+  cursor: pointer;
+  z-index: 8;
+}
+.circles,
+.spaceIcon {
+  max-width: 100%;
+  overflow: hidden;
+}
+.circles {
+  width: 100%;
+  height: 821px;
+  position: absolute;
+  margin: 0 !important;
+  top: -2px;
+  left: -1px;
+  flex-shrink: 0;
+  z-index: 4;
+  text-align: left;
+  font-size: 144px;
+  font-family: var(--font-abeezee);
+}
+.spaceIcon {
+  height: 800px;
+  flex: 1;
+  position: relative;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.gradient2Icon {
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: -34px;
+  top: -50px;
+  transform: scale(1.157);
+}
+.wrapperGradient2 {
+  height: 636.7px;
+  width: 651.6px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -232.7px;
+  left: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.designWizardBadges2 {
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.562);
+}
+.wrapperDesignWizardBadges2 {
+  width: 220px;
+  height: 220px;
+  position: relative;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div1 {
+  width: 213px;
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  z-index: 3;
+}
+.wrapperDesignWizardBadgesGroup {
+  height: 286px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  min-width: 220px;
+}
+.designWizardBadges3 {
+  height: 100%;
+  width: 100%;
+  z-index: 5;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.562);
+}
+.wrapperDesignWizardBadges3 {
+  height: 220px;
+  width: 220px;
+  position: relative;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperDesignWizardBadgesWrapper {
+  align-self: stretch;
+  height: 220px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 14px 0 0;
+  box-sizing: border-box;
+}
+.div2 {
+  width: 213px;
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  z-index: 3;
+}
+.frameParent4,
+.frameParent5 {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent5 {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-3xs);
+  min-width: 152px;
+}
+.frameParent4 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.designWizardBadges4 {
+  height: 100%;
+  width: 100%;
+  z-index: 6;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 2px;
+  transform: scale(1.562);
+}
+.wrapperDesignWizardBadges4 {
+  height: 220px;
+  width: 220px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: -7px;
+  z-index: 6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div3 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 900;
+  z-index: 6;
+}
+.wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 227px 0 0;
+}
+.spaceParent,
+.wrapperDesignWizardBadgesContainer,
+.wrapperGradient2Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wrapperDesignWizardBadgesContainer {
+  width: 213px;
+  position: relative;
+  min-width: 213px;
+}
+.spaceParent,
+.wrapperGradient2Parent {
+  position: absolute;
+}
+.wrapperGradient2Parent {
+  width: 704px;
+  margin: 0 !important;
+  bottom: -213px;
+  left: 604px;
+  padding: 89px 0 29px 12px;
+  box-sizing: border-box;
+  gap: 9px;
+  max-width: 100%;
+}
+.spaceParent {
+  top: -29px;
+  left: -216px;
+  width: 1920px;
+}
+.gradient4Icon {
+  height: 1499.5px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  z-index: 1;
+}
+.div4 {
+  width: 213px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 94.3px;
+  left: 224.4px;
+  font-weight: 900;
+  display: inline-block;
+  z-index: 6;
+}
+.gradient4Parent {
+  position: absolute;
+  top: -453.2px;
+  left: 906.6px;
+  width: 1379.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gradient3Icon {
+  position: absolute;
+  top: -659px;
+  left: -142px;
+  width: 1135.8px;
+  height: 1090px;
+  object-fit: contain;
+  z-index: 2;
+}
+.sphereIcon1 {
+  position: absolute;
+  top: 398px;
+  left: 1260px;
+  width: 259px;
+  height: 259px;
+  z-index: 6;
+}
+.frameParent3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.desktop1,
+.homePage1 {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+}
+.homePage1 {
+  height: 984px;
+  flex: 1;
+  background-color: #030614;
+  overflow-y: auto;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 1px 983px 0;
+  box-sizing: border-box;
+  gap: 216px;
+  max-width: 100%;
+}
+.desktop1 {
+  width: 100%;
+  background-color: var(--colors-neutral-white);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--colors-neutral-white);
+  font-family: var(--font-raleway);
+}
+@media screen and (max-width: 1200px) {
+  .frameParent {
+    padding-top: 283px;
+    box-sizing: border-box;
+  }
+  .block1Inner {
+    min-width: 100%;
+  }
+  .circles {
+    height: auto;
+    min-height: 821;
+  }
+  .homePage1 {
+    height: auto;
+    padding-bottom: 639px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .div {
+    font-size: var(--font-size-19xl);
+  }
+  .vision {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+  .gradient1Parent {
+    padding-top: 151px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+  .overview {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+  .frameGroup {
+    display: none;
+    max-width: 100%;
+  }
+  .aMultiplayerGameArcadeMetWrapper {
+    padding-left: 36px;
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+  .frameContainer {
+    display: none;
+    gap: 44px;
+    max-width: 100%;
+  }
+  .frameParent {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .cryptoPay {
+    font-size: 58px;
+    line-height: 72px;
+  }
+  .isGamifiedCrypto {
+    font-size: 26px;
+  }
+  .badges {
+    line-height: 96px;
+  }
+  .badges,
+  .div1,
+  .div2,
+  .div3,
+  .div4 {
+    font-size: var(--font-size-19xl);
+  }
+  .homePage1 {
+    padding-bottom: 415px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .gradient1Parent {
+    padding-top: 98px;
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .featuresParent {
+    display: none;
+  }
+  .frameParent {
+    gap: 71px;
+    padding-top: var(--padding-165xl);
+    box-sizing: border-box;
+  }
+  .isGamifiedCryptoWalletWherParent {
+    gap: var(--gap-lg);
+  }
+  .block1 {
+    gap: 28px;
+    padding-left: var(--padding-165xl);
+    padding-right: 115px;
+    box-sizing: border-box;
+  }
+  .wrapperDesignWizardBadgesContainer {
+    flex: 1;
+  }
+  .wrapperGradient2Parent {
+    flex-wrap: wrap;
+  }
+  .frameParent3 {
+    height: auto;
+    min-height: 984;
+  }
+  .homePage1 {
+    gap: 108px;
+    padding-bottom: 270px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .div {
+    font-size: var(--font-size-10xl);
+  }
+  .vision {
+    font-size: var(--font-size-5xl);
+    line-height: 32px;
+  }
+  .gradient1Parent {
+    gap: 158px;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .overview {
+    font-size: var(--font-size-5xl);
+    line-height: 32px;
+  }
+  .aMultiplayerGameArcadeContainer {
+    font-size: var(--font-size-lgi);
+  }
+  .frameContainer {
+    gap: 22px;
+  }
+  .frameParent {
+    gap: var(--gap-17xl);
+  }
+  .cryptoPay {
+    font-size: 36px;
+    line-height: 48px;
+  }
+  .isGamifiedCrypto {
+    font-size: var(--font-size-lgi);
+  }
+  .badges {
+    font-size: var(--font-size-10xl);
+    line-height: 72px;
+  }
+  .winBadgesOn {
+    font-size: var(--font-size-base);
+  }
+  .block1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .div1 {
+    font-size: var(--font-size-10xl);
+  }
+  .wrapperDesignWizardBadgesGroup {
+    flex: 1;
+  }
+  .div2 {
+    font-size: var(--font-size-10xl);
+  }
+  .frameParent4 {
+    flex-wrap: wrap;
+  }
+  .div3,
+  .div4 {
+    font-size: var(--font-size-10xl);
+  }
+  .homePage1 {
+    gap: 54px;
+  }
+}

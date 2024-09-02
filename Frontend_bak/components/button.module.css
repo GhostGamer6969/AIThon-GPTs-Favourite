@@ -1,0 +1,25 @@
+.button1 {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--colors-neutral-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 50px;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs) var(--padding-base);
+  background-color: var(--color-orange);
+  border-radius: var(--br-47xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button:hover {
+  background-color: var(--color-chocolate);
+}

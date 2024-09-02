@@ -1,0 +1,105 @@
+.frameChild {
+  width: 1161px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--colors-neutral-white);
+  box-sizing: border-box;
+  opacity: 0.3;
+  max-width: 100%;
+  z-index: 3;
+}
+.blockchainTechnologyEnsures,
+.orCreateAre {
+  margin: 0;
+}
+.allActivitiesDrive {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.theModelIs {
+  margin: 0;
+}
+.blockchainTechnologyEnsuresContainer {
+  margin: 0;
+  height: 140px;
+  width: 640px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.blockchainDescription,
+.lineParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.lineParent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-53xl);
+}
+.frameItem {
+  width: 1161px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--colors-neutral-white);
+  box-sizing: border-box;
+  opacity: 0.3;
+  max-width: 100%;
+}
+.frameParent,
+.homePage1Inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-48xl);
+}
+.homePage1Inner {
+  width: 1358px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-60xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--colors-neutral-white);
+  font-family: var(--font-raleway);
+}
+@media screen and (max-width: 1200px) {
+  .lineParent {
+    gap: var(--gap-17xl);
+  }
+  .frameParent {
+    gap: var(--gap-14xl);
+  }
+  .homePage1Inner {
+    padding-left: var(--padding-20xl);
+    padding-right: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .lineParent {
+    gap: var(--gap-lg);
+  }
+  .frameParent {
+    gap: var(--gap-mid);
+  }
+}
+@media screen and (max-width: 450px) {
+  .blockchainTechnologyEnsuresContainer {
+    font-size: var(--font-size-lgi);
+  }
+}
