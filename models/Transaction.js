@@ -9,4 +9,3 @@ const Transaction = sequelize.define('Transaction', {
 });
 
 module.exports = Transaction;
-

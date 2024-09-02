@@ -8,4 +8,3 @@ const Badge = sequelize.define('Badge', {
 });
 
 module.exports = Badge;
-
